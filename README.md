@@ -132,32 +132,9 @@ This project is a smart kitchen monitoring and control system built using the ES
 4. If air quality exceeds 150 PPM, the buzzer and exhaust fan activate.
 5. The user can control the fridge remotely via the Blynk app.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - Thanks to the Blynk team for the IoT platform.
 - Thanks to Adafruit for the MLX90614 library.
 - Thanks to the developers of the MQ135 library.
 
----
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
----
-
-## Contact
-
-For any questions or support, please contact [Your Name] at [your.email@example.com].
-
----
-
-This README provides a comprehensive overview of the project, including setup instructions, usage, and a description of the code. Feel free to customize it further to suit your needs!
